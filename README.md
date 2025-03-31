@@ -1,9 +1,6 @@
-# helloworld
+# meme_storage
+ 存储特定表情包并发送随机表情包
 
-AstrBot 插件模板
-
-A template plugin for AstrBot plugin feature
-
-# 支持
-
-[帮助文档](https://astrbot.app)
+# 命令
+- /添加 name 表情包/图片
+- /来只 name 
